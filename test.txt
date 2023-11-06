@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+<nav>
+    <a href="">Home</a>
+    <a href="">Aboute</a>
+    <a href="">news</a>
+    <a href="">projects</a>
+    <a href="">Contact</a>
+   </nav>
+
+   <!-- Intro section start -->
+   <h1>welcome to my portfolio site</h1>
+   <hr>
+   <h2>Your Name</h2>
+   <img src="imges/i.webp">
+  
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, excepturi et repellat impedit, fuga obcaecati dolores consectetur repudiandae nesciunt assumenda cumque molestiae, placeat illum voluptas ea? Nemo aliquam harum quis.</p>
+   <h3 style="color:blueviolet;">
+    <u>Contact Info</u>
+   </h3>
+   <ul>
+    <li><a href="mailto:example@gmail.com">example@gmail.com</a></a></li>
+    <li><a href="https://www.linkedin.com/">Linkedin</a></li> 
+    <li><a href="tel:+994447789767">Phone Number</a></li>
+   </ul>
+     
+   <!-- Intro section end -->
+
+</body>
+
+</html>
