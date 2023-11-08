@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+            color: blueviolet;
+        }
+
+        .city {
+            color: blueviolet;
+        }
+
+       .city2 {
+           color: violet;
+       }
+        .italic {
+            font-style: italic;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1 class="city">The Apple II</h1>
+    <p>FE-23</p>
+    <p class="city2">8-bit home computer and one of the world's first highly successful mass-produced microcomputer products.</p>
+    <p class="italic">Designed by Steve Wozniak.</p>
+
+
+</body>
+</html>
